@@ -4,7 +4,7 @@
 - ***/男/1991 
 - 硕士/同济大学
 - 工作年限：3年
-- Github：https://github.com/razor1895
+- Github：
 - 期望职位：***工程师
 
 # 联系方式
